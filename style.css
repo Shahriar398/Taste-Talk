@@ -41,11 +41,13 @@ header h1{
 /* Remove bullets */
 #menu ul{
     list-style: none;
+    display: flex;
+    justify-content: space-around;
 }
 
 /* Space between menu items */
 #menu li{
-    margin: 15px 0;
+    margin: 0;
 }
 
 /* Button styling */
