@@ -38,11 +38,12 @@ header h1{
     color: #6f4e37;
 }
 
-/* Remove bullets */
 #menu ul{
     list-style: none;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    flex-wrap: wrap; /* Allows buttons to move to next line */
+    gap: 15px;
 }
 
 /* Space between menu items */
