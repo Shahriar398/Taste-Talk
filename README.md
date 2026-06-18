@@ -30,7 +30,7 @@ Taste-Talk is a front-end web development project designed to showcase a cafeter
 ## 🛠️ Technologies Used
 
 - HTML
-- CSS3
+- CSS
 
 ---
 
